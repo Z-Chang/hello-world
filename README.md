@@ -1,2 +1,4 @@
 # hello-world
-It's a start for me.
+Hi,github.
+This is a start for me.
+I'm new here.
